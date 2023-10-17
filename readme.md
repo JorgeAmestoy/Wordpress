@@ -1,4 +1,14 @@
 # PASOS PARA LEVANTAR WORDPRESS
+#### 1) BUSCAR INFORMACIÓN SOBRE WORDPRESS
+
+#### 2) BUSCAR LA IMAGEN DE WORDPRESS EN DOCKER HUB
+
+#### 3) DOCUMENTACIÓN DOCKER (Docker Docs)
+
+#### 4) CREAR UN DOCKER-COMPOSE.YML
+
+#### 5) INICIAR EL CONTENEDOR CON DOCKER COMPOSE UP -D
+
 ![captura](https://github.com/JorgeAmestoy/Wordpress/blob/main/imagen/wordpress.png)
 
 
