@@ -6,7 +6,7 @@ la personalización a la hora crear sitios webs y su seguridad.<br>
 Para levantar un contenedor y ejecutar WordPress, puedes encontrar
 una guía paso a paso de cómo realizarlo en [Docker Docs](https://docs.docker.com/samples/wordpress/).
 
-### DOCKER.COMPOSE.YML
+### DOCKER-COMPOSE.YML
 Como explica la guía, creas un fichero *.yml* en un editor de texto y escribes el código para definir
 la configuración necesaria y ejecutar WordPress:
 ```
@@ -60,7 +60,7 @@ Finalmente, inicias los contenedores con el comando:
 $ DOCKER-COMPOSE UP -D
 ```
 Para comprobar que funciona correctamente, escribes la dirección IP 
-o el dominio del servidor donde se está ejecutando Docker seguido del puerto 80:
+o el dominio del servidor en el que se está ejecutando Docker seguido del puerto 80:
 
 ![captura](./imagen/wordpress.png)
 
