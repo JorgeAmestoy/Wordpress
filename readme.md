@@ -1,4 +1,4 @@
 # PASOS PARA LEVANTAR WORDPRESS
-![captura](/home/dam2/PhpstormProjects/wordpress/imagen/wordpress.png)
+![captura](https://github.com/JorgeAmestoy/Wordpress/blob/main/imagen/wordpress.png)
 
 
